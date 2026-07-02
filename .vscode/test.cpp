@@ -6,6 +6,5 @@ int main()
 {
     cout << "Hello world!\n";
     return 0;
-    //test
-    //test2
+    //this is a test
 }
